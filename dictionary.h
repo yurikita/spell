@@ -29,9 +29,6 @@ node;
 
 typedef node* hashmap_t;
 
-/**
- * Already implemented in dictionary.c
- **/
 int hash_function(const char* word);
 
 #endif // DICTIONARY_H

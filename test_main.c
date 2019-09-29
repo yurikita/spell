@@ -1,5 +1,6 @@
 #include <check.h>
 #include "dictionary.h"
+#include "spell.h"
 #include <stdlib.h>
 
 #define DICTIONARY "wordlist.txt"
