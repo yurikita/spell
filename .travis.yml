@@ -2,7 +2,6 @@ language: c
 before install:
     - sudo apt-get update
     - sudo apt-get install -y check
-install: make get-deps
 complier: gcc
 script: 
     - make
